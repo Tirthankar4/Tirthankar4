@@ -2,7 +2,6 @@
 - 👀 I’m interested in computational astrophysics and nuclear physics and scientific machine learning
 - 🌱 I’m currently learning deep learning, PINNs and libraries in python for scientific research (lightkurve, astropy, astroml etc) and other tools like ROOT
 - 💞️ I’m looking to collaborate on scientific research using python and machine learning
-- 📫 How to reach me: I am a active mail user so drop a mail at tirtha0510@gmail.com. 
      Have a nice day
      
 <!---
